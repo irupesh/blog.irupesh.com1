@@ -1,0 +1,17 @@
+name: Rupesh's Blog
+description: This is where I will tell my friends way too much about me
+meta_description: "Rupesh's Blog, This is where I will tell my friends way too much about me"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://blog.irupesh.com'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+permalink: /:title.html
+
+# Details for the RSS feed generator
+url:            'blog.irupesh.com'
+author:         'Rupesh Ranjan'
